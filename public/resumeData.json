@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Junaid Ahmed",
+    "occupation": "Freelance Web Developer",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "image": "profile.png",
+    "bio": "Hi there! I am Junaid! I've been coding for quite a few years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. I had a passion for coding and learning about making websites and applications since I've realised their existence. With this passion, I have now learnt many latest technologies. I deliver REAL VALUE by providing my clients with the best possible services. I can GUARANTEE you the best experience as a client if you work with me.",
+    "contactmessage": "Get in touch with me!",
+    "email": "junaidahmedzama@gmail.com",
+    "phone": "+880 1972683868",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": ""
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.zoboticsit.com/",
+    "resumedownload": "https://doc-14-b0-docs.googleusercontent.com/docs/securesc/lpttejgdh3duomovgmvaogg6l9dnqjv4/41utlj53mct75f7955fr6ds0sb19ilnt/1659470025000/15305355262206742284/15305355262206742284/1xz5RVWAtTkfmYXwprk40bhHeQlS2DWt4?e=download&ax=AI9vYm4oga1NbPWOoaSMJY6fN4pa1er1S7fLZEKL4r-jpCa7UUOkih2fV0KbaRlnk1s7S-ELNDpDNmR3Ldk4dqBJ402o2cyQcZGzDo5KSyZPaFLGGTvjPUzN6xXLzixmAqUs3o5wt_0cSc2E-K3ZQSSCdUiVKyeqNp-cDaKT-Zugb3Kl-DUnz2aKK0pBZG5WRwJz3o__3Cw2zG3Sjy2NxkmA-hm6vqGUPxHndam3c1LPVCtcIBgAnRmCRXLrM3UIrR1sjPAjMu--1j4n66UWu-aITD08QqrmsKrsxiOy4LrwfQ9SfTxkknYnzorG-dXzqbExUKpt3DHuTeMPiVxx3cKpBfar4i2UB7mY9VTxkUW9dO2g0PBnFhVrjViWdbFtusRgy1TThW9zFRECtgaNjnra6Vgo09EPQpL3NFJvjz5Hnv30LJYMmlG41ynncUAW8R22_ng_d-r8fzYzt4trrFItIzoMuxWqrUCJ7vy0z8cXOjegw0kIW4nfmqVj5ZrsL_PWWvTsdv02sm0f70pKSagTb1HKB7hoLrcpxx9qnLsIISQ8Mm6_Yras-M0DTZpXc3AJRgdI6SxvwvD7xnQaeCn1Bzywe2iD6ECzYxCkpNfbb3YH8YU530oNzc-kLuE5pT3n0Sr7avBebQUOw3aPyg4Cbx8rSGNB08ezfADwXFyS60KjCnUNQy0hkg7rAt-jeCzkwua6HL7oAF6l5rutpNwC6AKjrwuccKuepatjv3LY45UDeOsiVQeQ_v-WSdMC2lrFclh6ZyEq0ygoYEzuj_5rffZsMPBkHY5yqYACvvM3cOgCdrp8N_EwN8gexvcJUhjosBoDCLbRVnYObmfD5eSgvMoE0izEEp0&uuid=d83c144d-ab43-4bf8-ae10-8b34db1a2a27&authuser=0&nonce=04duv0vjnre3g&user=15305355262206742284&hash=sjgvqi11f53f4p6hj06q8ukg1gcqi9qc",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/c/zoboticsbd",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/junaidahmedzamaa/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/junaidahmedzama",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/zamaa.aa/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/junaidzamaahmed",
         "className": "fa fa-github"
       }
     ]
@@ -48,18 +48,18 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "BRAC University",
+        "degree": "Bachelor's Degree, Computer Science & Engineering",
+        "graduated": "Present",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "Zobotics IT",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "January 2022 - Present",
+        "description": "Working with incredible clients from different parts of the world regularly."
       }
     ],
     "skills": [
@@ -82,40 +82,40 @@
       {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Ground Zero BD (Wordpress)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "groundzero.jpg",
+        "url": "https://groundzerobd.com/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Gymster (React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "gymster.jpg",
+        "url": "https://gymster.netlify.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Anon E-commerce (React JS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "anon-ecommerce.jpg",
+        "url": "https://anon-ecommerce-project.vercel.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "It was a pleasure working with Junaid. Looking forward to work on other projects with him.",
+        "user": "Shadman Nasir (CEO, Ground Zero BD)"
       }
     ]
   }

@@ -5,7 +5,7 @@ const Footer = ({ data }) => {
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
-          <a href={network.url}>
+          <a href={network.url} target="_blank" rel="noopener noreferrer">
             <i className={network.className}></i>
           </a>
         </li>
@@ -22,8 +22,13 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
               Made by{" "}
-              <a title="PAPA" href="http://www.papareact.com/">
-                PAPA
+              <a
+                title="Junaid Ahmed Zama"
+                href="http://www.junaidahmedzama.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Junaid Ahmed Zama
               </a>
             </li>
           </ul>
